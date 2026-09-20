@@ -1,0 +1,5 @@
+# Robots.txt - Sambal Kacang Jawara
+User-agent: *
+Allow: /
+
+Sitemap: https://sambalkacangjawara.com/sitemap.xml
